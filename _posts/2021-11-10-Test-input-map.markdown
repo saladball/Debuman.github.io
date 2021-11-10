@@ -9,4 +9,4 @@ categories: Javascript HTML
 
 <br>
 
-![debuman profile](https://www.meanwhile-in-japan.com/wp-content/uploads/2010/06/otaku1-1.jpg)
+![debuman profile](https://www.meanwhile-in-japan.com/wp-content/uploads/2010/06/otaku1-1.jpg){: width="100%" height"100%"}
