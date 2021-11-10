@@ -25,4 +25,4 @@ categories: Javascript HTML
 
 <iframe width="100%" height="415px" src="https://www.youtube-nocookie.com/embed/wfQI9qhfbH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://open.spotify.com/playlist/366x9OoOWRBva8OkSxTRn3?si=be2818c8a1bb40a2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZEVXbKXQ4mDTEBXq?si=46c54f324c7c4de5" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
