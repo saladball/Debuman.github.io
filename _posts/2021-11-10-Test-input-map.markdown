@@ -9,4 +9,4 @@ categories: Javascript HTML
 
 <br>
 
-![debuman profile](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meanwhile-in-japan.com%2Fotaku-photos%2F&psig=AOvVaw0JdZlh0gOQ1pOUXdFf7wOE&ust=1636616869355000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIi5_4unjfQCFQAAAAAdAAAAABAD)
+![debuman profile](https://www.meanwhile-in-japan.com/wp-content/uploads/2010/06/otaku1-1.jpg)
