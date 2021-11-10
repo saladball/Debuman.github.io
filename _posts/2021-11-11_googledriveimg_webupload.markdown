@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "구글 드라이브 이미지 웹 공유(ver.2021)"
+title:  "google drive web upload(ver.2021)"
 date:   2021-11-11 00:17:36 +0530
 categories: GoogleDrive Upload
 ---
