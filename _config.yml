@@ -58,6 +58,9 @@ plainwhite:
 # Build settings
 theme: plainwhite
 
+defaults:
+        comments: true
+
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
