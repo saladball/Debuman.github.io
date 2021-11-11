@@ -19,7 +19,7 @@ categories: utterances jekyll blog
 utterances는 기본적으로 Github에 이슈를 만듬으로써, 댓글을 생성한다.
 따라서 utterances가 Gihub에 이슈를 만들 수 있도록 Github와 연동및 권한을 부여해야 한다. 
 
-![configure](.image/2021/11/configure.png)
+![configure](/../_posts/image/2021/11/configure.png)
 
 **Configure** 버튼 클릭
  
