@@ -1,6 +1,10 @@
 ---
 layout: default
-comments: true
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "photon-dark"
+    issue_term: "pathname"
 ---
 {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
 <div class="post-container">
@@ -20,6 +24,16 @@ comments: true
   <div class="post">
     {{ content }}
   </div>
+
+  <script src="https://utteranc.es/client.js"
+        repo="saladball.saladball.github.io"
+        issue-term="pathname"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+ </script>
+
+
   {%- if site.plainwhite.disqus_shortname -%}
   <div id="disqus_thread" style="margin-top:25px"></div>
   <script>
