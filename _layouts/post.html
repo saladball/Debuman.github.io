@@ -1,10 +1,5 @@
 ---
 layout: default
-comments:
-  provider: "utterances"
-  utterances:
-    theme: "photon-dark"
-    issue_term: "pathname"
 ---
 {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
 <div class="post-container">
@@ -26,8 +21,9 @@ comments:
   </div>
   <div class="col-lg-8 col-md-10 mx-auto">
     <script src="https://utteranc.es/client.js"
-       repo="saladball.saladball.github.io"
+       repo="saladball/saladball.github.io"
        issue-term="pathname"
+       label="comment"
        theme="photon-dark"
        crossorigin="anonymous"
        async>
