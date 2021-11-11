@@ -17,7 +17,6 @@ plainwhite:
   date_format: "%b %-d, %Y"
   analytics_id: "G-TLFGXSQFG1"
   disqus_shortname: https-saladball-github-io
-  comments: true
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
@@ -26,7 +25,6 @@ plainwhite:
   condensed_mobile:
     - home
     - page
-    - post
   # generate social links in footer
   social_links:
     #twitter: samarsault
@@ -57,9 +55,6 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
-
-defaults:
-        comments: true
 
 plugins:
   - jekyll-seo-tag
