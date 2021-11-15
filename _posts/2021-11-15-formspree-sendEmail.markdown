@@ -5,9 +5,10 @@ date: 2021-11-15 15:05:00 +0530
 categories: formspree jekyll blog email
 ---
 
+<br>
+
 ## Formspree
 <hr>
-<br>
 정적인 서비스인 Github 블로그에서는 서버를 통한 이메일을 발송하는 기능을 구현할 수 없다. 하지만 이런 정적 서비스에서 이메일 전송을 가능하도록 도와주는 서비스가 바로 오늘 설치할 [Formspree][formspree]이다.
 Formspree를 사용하여 jekylld에서 이메일을 발송하는 기능을 구현해보겠다.
 <br>
