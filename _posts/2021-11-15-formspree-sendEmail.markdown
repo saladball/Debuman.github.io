@@ -27,3 +27,4 @@ Formspree를 사용하여 jekylld에서 이메일을 발송하는 기능을 구�
 
 
 [plainwhite]: https://github.com/samarsault/plainwhite-jekyll
+[formspree]: https://formspree.io
