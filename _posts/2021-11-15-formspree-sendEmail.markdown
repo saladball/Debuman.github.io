@@ -24,3 +24,5 @@ Formspree를 사용하여 jekylld에서 이메일을 발송하는 기능을 구�
 ![complete](/../image/2021/11/15/"complete.png")
 이후 정상적으로 자신의 Jekyll블로그에 표시되는 것을 확인할 수 있다.
 
+
+[plainwhite]: https://github.com/samarsault/plainwhite-jekyll
