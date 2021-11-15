@@ -24,8 +24,8 @@ plainwhite:
     - page
     - post
   navigation:
-    - title: Posts
-      url: "/posts"
+    - title: About
+      url: "about"
     - title: Pages
       url: "/pages"
       #tagline: |
