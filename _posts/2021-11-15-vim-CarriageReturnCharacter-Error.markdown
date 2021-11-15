@@ -3,6 +3,7 @@ layout: post
 title: “vimrc 파일실행시 ^M 에러 발생할 경우”
 date: 2021-11-15 18:05:00 +0530
 categories: vim vimrc badinterpreter 개행문자오류
+tag: error linux
 ---
 
 로컬인 맥에서 vim을 사용하다가 Github 브로그를 만들기 위해 AWS에 우분투 서버 세팅 후
