@@ -26,6 +26,11 @@ plainwhite:
     - home
     - page
     - post
+  navigation:
+    - title: Posts
+      url: "/posts"
+    - title: Pages
+      url: "/pages"
   # generate social links in footer
   social_links:
     #twitter: samarsault
