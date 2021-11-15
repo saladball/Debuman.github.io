@@ -51,7 +51,7 @@ Theme 항목에서는 자신의 블로그의 테마에 맞는 옵션을 선택�
 
 모든 항목을 자신의 블로그에 맞게 선택하였으면, 하단 Enable Utterances 항목에서 자신의 utterances 스크립트가 생성된 것을 확인할 수 있다.
 
-##Jekyll 블로그에 적용
+## Jekyll 블로그에 적용
 <hr>
 이렇게 생성한 스크립트를 Jekyll블로그에 추가하여 화면에 표시해 보자.
 필자는 [PlainWhite][plainwhite]테마를 사용하고 있다. 
