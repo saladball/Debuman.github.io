@@ -28,9 +28,16 @@ plainwhite:
     - post
   navigation:
     - title: Posts
-      url: "/posts"
+      url: "posts"
     - title: Pages
-      url: "/pages"
+      url: "pages"
+  tagline: |
+          First Line.
+
+          Second Line.
+
+          Third Line.
+  baseurl: "/blog"
   # generate social links in footer
   social_links:
     #twitter: samarsault
