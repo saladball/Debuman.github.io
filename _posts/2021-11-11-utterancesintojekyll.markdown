@@ -26,11 +26,12 @@ utterances는 기본적으로 Github에 이슈를 만듬으로써, 댓글을 생
  
 ![RepositorySave](/../image/2021/11/RepositorySave.png)
 
-Github 계정 로그인 후 댓글 기능(utterances)을 사용할 **Repository**를 선택
+Github 계정 로그인 후 댓글 기능(utterances)을 사용할 **Repository**를 선택한다.
+<br>
 
-utterances가 Github의 이슈를 생성하 도록 설정 후 이 이슈들을 화면에 표시하도록 utterances의 스크립트를 생성한다.
+이제 utterances가 Github의 이슈를 생성하도록 설정 후 이 이슈들을 화면에 표시하도록 utterances의 스크립트를 생성하기 위해
 
-utterances의 스크립트를 생성하기 위해 [공식 페이지][utterances]로 이동
+[공식 페이지][utterances]로 이동한다.
 
 <br>
 ![Repo](/../image/2021/11/Repo.png)
@@ -64,7 +65,7 @@ utterances의 스크립트를 생성하기 위해 [공식 페이지][utterances]
 필자는 [PlainWhite][plainwhite]테마를 사용하고 있다. 
 자신의 테마에서 블로그에 표시하는 템플릿을 찾아 복사한 스크립트를 추가한다.
 필자는 **_layouts/post.html** 파일에 추가하였다.
-
+<br>
 이로써 utteracnes을 사용하여 Jekyll 블로그에 댓글 기능을 추가하였다.
 이제 추가한 내용이 잘 적용되었는지 확인하기 위해 다음 명령어를 실행하여 Jrekyll블로그를 실행해보자.
 ```
