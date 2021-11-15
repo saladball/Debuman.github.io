@@ -66,7 +66,7 @@ bundle exec jekyll serve
 
 문제없이 잘 실행되었다면, 블로그 페이지에 다음과 같이 utterances 댓글 기능이 표시되는 것을 확인할 수 있다.
 
-![Complete][/../image/2021/11/Complete.png)
+![Complete](/../image/2021/11/Complete.png)
 
 
 [disqus]: https://disqus.com
