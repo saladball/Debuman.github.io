@@ -28,8 +28,6 @@ plainwhite:
   navigation:
     - title: About
       url: "about"
-    - title: Pages
-      url: "/pages"
       #tagline: |
       #First Line.
 
