@@ -26,13 +26,6 @@ plainwhite:
   navigation:
     - title: About
       url: "about"
-      #tagline: |
-      #First Line.
-
-      #Second Line.
-
-      #Third Line.
-  baseurl: "/blog"
   # generate social links in footer
   social_links:
     #twitter: samarsault
